@@ -1,10 +1,9 @@
 <div align="center">
-  <a href="">
+  <a href="https://chrome.google.com/webstore/detail/luminus-quiz-review/cfbaehclgnmgbalhafppoeopnhjbcgof">
     <img src="images/icon_128.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
-P.S Pending review, will update once published...
 # Luminus Quiz Review
 This simple Google chrome extension aims to help you while reviewing quizzes on LumiNUS (learning management platform), National University of Singapore.
 

@@ -18,7 +18,8 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://luminus.nus.edu.sg/modules/*/quiz/*/attempt-secure"],
+      "matches": ["https://luminus.nus.edu.sg/*"],
+      "run_at": "document_end",
       "js": ["script.js"],
       "css": ["styles.css"]
     }

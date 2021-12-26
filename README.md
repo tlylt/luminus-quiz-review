@@ -5,6 +5,8 @@
 </div>
 
 # Luminus Quiz Review
+Available on Chrome Web Store: [Link](https://chrome.google.com/webstore/detail/luminus-quiz-review/cfbaehclgnmgbalhafppoeopnhjbcgof)
+
 This simple Google chrome extension aims to help you while reviewing quizzes on LumiNUS (learning management platform), National University of Singapore.
 
 ## Description
